@@ -1,17 +1,17 @@
 {
+  "hints": [],
   "groups": [
     {
+      "sourceType": "com.davidparry.PropertyConfig",
       "name": "",
-      "type": "com.davidparry.PropertyConfig",
-      "sourceType": "com.davidparry.PropertyConfig"
+      "type": "com.davidparry.PropertyConfig"
     }
   ],
   "properties": [
     {
+      "sourceType": "com.davidparry.PropertyConfig",
       "name": "backend-base-url",
-      "type": "java.lang.String",
-      "sourceType": "com.davidparry.PropertyConfig"
+      "type": "java.lang.String"
     }
-  ],
-  "hints": []
+  ]
 }
