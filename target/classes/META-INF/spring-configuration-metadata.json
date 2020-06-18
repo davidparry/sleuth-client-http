@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.davidparry.PropertyConfig",
+      "sourceType": "com.davidparry.PropertyConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "backend-base-url",
+      "type": "java.lang.String",
+      "sourceType": "com.davidparry.PropertyConfig"
+    }
+  ],
+  "hints": []
+}
